@@ -17,9 +17,6 @@ This project involves the development of a speech-based digit recognition system
 
 - **Visual Studio 2010**: The project is developed in C++ and requires Visual Studio 2010 for compilation and execution.
 
-  Ensure Visual Studio 2010 is installed on your system before running the project.
-
-
 ## Installation
 - Ensure Visual Studio 2010 is installed on your system.
 - Download and extract the project files from the repository.
